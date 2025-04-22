@@ -1,7 +1,7 @@
 # Wikipedia Search App (Android 기술과제)
 
 위키피디아 API를 활용하여 검색어의 요약 정보 및 관련 미디어 리스트를 조회하고 표시하는 Android 프로젝트입니다.  
-Compose를 사용하지 않고, `View` + `ListView` 기반으로 구현하였습니다.
+요구 조건인 Compose를 사용하지 않고, `View` + `ListView` 기반으로 구현하였습니다.
 
 ---
 
