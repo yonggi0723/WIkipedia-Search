@@ -32,6 +32,15 @@ Compose를 사용하지 않고, `View` + `ListView` 기반으로 구현하였습
 
 ---
 
+## 📄 기술 문서
+
+해당 프로젝트는 NHN 실전 기술과제를 기반으로 진행되었으며,  
+요구사항 분석, 커스텀 HTTP 모듈 설계, 테스트 전략, 회고까지 포함된 기술 문서를 제공합니다.
+
+👉 [기술문서 PDF 바로 보기](./docs/WikipediaSearch_TechDoc_KimYonggi.pdf)
+
+---
+
 ## 📁 프로젝트 구조
 
 ---
