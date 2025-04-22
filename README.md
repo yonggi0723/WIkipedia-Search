@@ -49,7 +49,7 @@ Compose를 사용하지 않고, `View` + `ListView` 기반으로 구현하였습
 
 > 기술과제 제출 목적이므로, UI는 간결한 구현 위주로 구성되었습니다.
 
-![App Screenshot](https://user-images.githubusercontent.com/50821414/235259588-4a9e062e-f518-4e9c-9028-8308a743d38d.png)
+<img width="781" alt="스크린샷 2025-04-22 오후 5 13 45" src="https://github.com/user-attachments/assets/ace85e42-effe-4a19-94f2-2ac40d76924a" />
 
 ---
 
